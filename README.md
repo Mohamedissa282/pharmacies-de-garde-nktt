@@ -20,4 +20,4 @@ Application Flutter pour consulter les pharmacies de garde à Nouakchott avec lo
 - API Map : Google Maps API 
 
 ## Vidéo de démonstration
-[![Voir la vidéo](https://youtu.be/3w5HAO0U9CA)
+https://youtu.be/3w5HAO0U9CA
