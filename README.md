@@ -3,10 +3,15 @@ Application Flutter pour consulter les pharmacies de garde à Nouakchott avec lo
 
 # Fonctionnalités  
 - Liste des pharmacies de garde en temps réel
-- Localisation des pharmacies de garde sur Google Maps
+  Affichage actualisé des pharmacies actuellement de garde.
+- Classement par proximité
+  Présentation sous forme de liste, triée automatiquement pour afficher la pharmacie la plus proche en premier.
 - Recherche par nom de pharmacie
-- Affichage des coordonnées (adresse, téléphone)  
+  Permet de retrouver rapidement une pharmacie spécifique.
+- Affichage des coordonnées
+  Adresse, numéro de téléphone et informations utiles pour chaque pharmacie.  
 - Interface simple et intuitive
+  Conçue pour une utilisation rapide et efficace.
 
 # Technologies utilisées 
 - Frontend : Flutter(Dart)  
